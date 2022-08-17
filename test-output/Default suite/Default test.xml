@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="DESKTOP-9ADAQ2G" name="com.flipcart.qa.Test.Login_page_test" tests="1" failures="0" timestamp="16 Aug 2022 14:38:27 GMT" time="11.704" errors="0">
+  <testcase name="loginPageTest" time="0.8" classname="com.flipcart.qa.Test.Login_page_test"/>
+</testsuite>

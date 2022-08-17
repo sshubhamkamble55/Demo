@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[Mail Varified]]>
+    </line>
+    <line>
+      <![CDATA[Password Varified]]>
+    </line>
+    <line>
+      <![CDATA[Forgot btn Varified]]>
+    </line>
+    <line>
+      <![CDATA[logIN_btn Varified]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11704" started-at="2022-08-16T20:08:16Z" finished-at="2022-08-16T20:08:27Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11704" started-at="2022-08-16T20:08:16Z" finished-at="2022-08-16T20:08:27Z">
+      <class name="com.flipcart.qa.Test.Login_page_test">
+        <test-method status="PASS" signature="opening()" name="opening" is-config="true" duration-ms="5473" started-at="2022-08-16T20:08:16Z" finished-at="2022-08-16T20:08:21Z">
+        </test-method>
+        <test-method status="PASS" signature="loginPageTest()" name="loginPageTest" duration-ms="800" started-at="2022-08-16T20:08:21Z" finished-at="2022-08-16T20:08:22Z">
+        </test-method>
+        <test-method status="PASS" signature="tearDown()" name="tearDown" is-config="true" duration-ms="5428" started-at="2022-08-16T20:08:22Z" finished-at="2022-08-16T20:08:27Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
